@@ -4,7 +4,7 @@
 ⭐ “I’m a Computer Science student who loves mixing code with creativity. I believe technology isn’t just about solving problems, but also about designing experiences that inspire. My goal is to build projects where logic meets imagination.”
 
 🎓 Computer Science & Engineering Student at University Collage of Engineering Karyavattom  
-💻 Web Developing Exploror (MERN Stack) | 🤖 AI & Cloud Computing Enthusiast  
+💻 Web Developing Exploror (MERN Stack) | 🤖 AI & Machine Learning Enthusiast  
 🎨 UI/UX | Graphic Designer
 
 ---
